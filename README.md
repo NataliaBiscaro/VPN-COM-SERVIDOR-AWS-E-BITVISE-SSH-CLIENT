@@ -328,7 +328,7 @@ Com isto, se seu cliente estiver conectado, o arquivo de texto deverá ser exibi
       - Tipo: Custom TCP.
       - Protocolo: TCP.
       - Range da Porta: 8000.
-      - Origem: Escolha "My IP" para permitir apenas o seu endereço IP atual ou "Anywhere" para permitir de qualquer lugar (isso não é recomendado para ambientes de produção). Se você está usando a VPN, pode precisar especificar o intervalo de IP da sua VPN. (Como em meu caso estou utilizando apenas para fins acadêmicos, a origem está configurada como '0.0.0.0/0'
+      - Origem: Escolha "My IP" para permitir apenas o seu endereço IP atual ou "Anywhere" para permitir de qualquer lugar (isso não é recomendado para ambientes de produção). Se você está usando a VPN, pode precisar especificar o intervalo de IP da sua VPN, o range normalmente utilizado é'10.8.0.0/24'
 
 ---
 
